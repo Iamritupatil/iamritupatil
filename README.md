@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-Ritu Patil — Software & AI/ML Engineer
-
+Ritu Patil 
 Building backend systems, developer infrastructure and AI products.
 
 Python · FastAPI · PostgreSQL · Redis · TypeScript · Docker
